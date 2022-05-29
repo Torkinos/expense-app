@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd6d9a06.css",
-    "main.js": "/static/js/main.16cbda62.js",
-    "static/js/787.0a10ec7e.chunk.js": "/static/js/787.0a10ec7e.chunk.js",
-    "index.html": "/index.html",
-    "main.cd6d9a06.css.map": "/static/css/main.cd6d9a06.css.map",
-    "main.16cbda62.js.map": "/static/js/main.16cbda62.js.map",
-    "787.0a10ec7e.chunk.js.map": "/static/js/787.0a10ec7e.chunk.js.map"
+    "main.css": "/expense-app/static/css/main.cd6d9a06.css",
+    "main.js": "/expense-app/static/js/main.4b0bd3e4.js",
+    "static/js/787.0a10ec7e.chunk.js": "/expense-app/static/js/787.0a10ec7e.chunk.js",
+    "index.html": "/expense-app/index.html",
+    "main.cd6d9a06.css.map": "/expense-app/static/css/main.cd6d9a06.css.map",
+    "main.4b0bd3e4.js.map": "/expense-app/static/js/main.4b0bd3e4.js.map",
+    "787.0a10ec7e.chunk.js.map": "/expense-app/static/js/787.0a10ec7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd6d9a06.css",
-    "static/js/main.16cbda62.js"
+    "static/js/main.4b0bd3e4.js"
   ]
 }
